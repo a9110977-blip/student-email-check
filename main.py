@@ -10,5 +10,5 @@ def check_email(email):
         return "❌ 驗證失敗：這不是學生信箱。"
 
 # --- 測試區 ---
-print(check_email("alex@school.edu"))
+print(check_email("albert@school.edu"))
 print(check_email("user@gmail.com"))
